@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ufoyauxo.github.io/aec/sitemap_index.txt
+Sitemap: https://ufoyauxo.github.io/lba/sitemap_index.txt
+Sitemap: https://ufoyauxo.github.io/nbd/sitemap_index.txt
+Sitemap: https://ufoyauxo.github.io/pqT/sitemap_index.txt
